@@ -4,3 +4,4 @@ Olá ! Bem vindo ao meu livro de receitas:wave:
 
 - Bolo de milho
 - Pavê
+- Bolo de Chocolate
